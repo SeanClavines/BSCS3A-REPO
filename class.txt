@@ -1,10 +1,9 @@
------BSCS 3A-----
+O-----BSCS 3A-----
 
 ----- BEGIN -----
 [*] King Lawrence
 [*] Deffrey Josh Austria
 [*] Ronce Peijen Alajar
 [*] Bernie Ampa
-
-
+[*] Sean Christtein Clavines
 ----- END -----
